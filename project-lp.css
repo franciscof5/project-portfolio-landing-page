@@ -1,0 +1,55 @@
+html, body {
+	background: #006599 !important;
+	color:#FFF;
+	font-family: "Open Sans",sans-serif;
+}
+ul, ol {
+	list-style:none;
+}
+a {
+	color:#FFF !important;
+	text-decoration: none;
+	font-weight: bold;
+}
+li {
+	padding:10px;
+	border-radius:10px;
+	background-color:#1178AB;
+	width:75%;
+	margin:5px;
+}
+li:hover {
+	background-color:#2289CC;
+	
+}
+.current {
+	background-color:#2289CC;
+}
+.you_are_here {
+	margin:0 0 0 20px;
+	background-color:#FFF;
+	color:#2289CC;
+	font-weight:600;
+	padding:0 10px;
+	border-radius:5px;
+}
+/**/
+.project-list p {
+	margin:0;
+}
+.project-list h3.linkt {
+	margin:0 0 5px 0;
+	float:left;
+}
+.project-list a.link {
+	font-size:18px;
+}
+.project-list .launch_date {
+	float: right;
+}
+.project-list p.project_actions a {
+	font-size:10px;
+}
+.project-list br {
+	clear:both;
+}
